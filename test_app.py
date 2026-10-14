@@ -11,4 +11,4 @@ def test_add_negative_numbers():
 
 
 def test_add_zero():
-    assert add(5, 0) == 2
+    assert add(5, 0) == 5
